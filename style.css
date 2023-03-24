@@ -246,3 +246,7 @@ footer > div > div > a:hover {
   color: #fff;
   background-color: #0dd4c0;
 }
+footer > div > div,
+footer > div > a {
+  width: 300px;
+}
